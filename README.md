@@ -4,6 +4,7 @@
 
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/WillerChaves)](https://github.com/WillerChaves)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willer-brener-b5588a1a4/)](https://www.linkedin.com/in/willer-brener-b5588a1a4/)
 
 ## Languages and Tools:
 [![WillerChaves GitHub stats](https://github-readme-stats.vercel.app/api?username=WillerChaves)](https://github.com/WillerChaves/github-readme-stats)
