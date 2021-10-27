@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hello,  I'm Willer! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Coin.gif width="30">
 
-<!--
-**WillerChaves/WillerChaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+- Fullstack Developer 🐲
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/WillerChaves)](https://github.com/WillerChaves)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://github.com/WillerChaves)]( https://github.com/WillerChaves)
+
+##Languages and Tolls:
+
+[![WillerChaves GitHub stats](https://github-readme-stats.vercel.app/api?username=WillerChaves (https://github.com/WillerChaves/github-readme-stats)
+[![Top lANES]
+(https://github.com/WillerChaves/github-readme-stats.vercel.app/api/top-langs/?username=WillerChaves&layout=compact)](https://github.com/WillerChaves/github-readme-stats)
+
+<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+
+- Thanks for visiting.
+
+- Enjoy it!! 🐉
