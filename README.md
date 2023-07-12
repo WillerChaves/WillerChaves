@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @WillerChaves 🐲
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Javascript and Puthon
+- 🌱 I’m currently learning Javascript and Python
